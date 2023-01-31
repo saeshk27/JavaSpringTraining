@@ -1,1 +1,1 @@
-# JavaSpringTraining
+Training given on core java and spring framework
